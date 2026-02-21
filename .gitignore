@@ -1,0 +1,79 @@
+# ──────────────────────────────────────────
+# Бинарные / учебные файлы — НЕ коммитить
+# ──────────────────────────────────────────
+
+# Microsoft Office
+*.docx
+*.doc
+*.docm
+*.pptx
+*.ppt
+*.pptm
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+~$*.docx
+~$*.doc
+~$*.pptx
+~$*.ppt
+~$*.xlsx
+
+# PDF
+*.pdf
+
+# Видео и аудио
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.m4a
+
+# Архивы
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.gz
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+Icon
+
+# IDE / редакторы
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (если будут проекты)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
