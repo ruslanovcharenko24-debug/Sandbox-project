@@ -6,8 +6,14 @@
 
 ```
 sandbox-project/
-├── README.md
-└── .gitignore
+├── mtu/                 ← задания и код по предметам МТУ
+│   ├── it/
+│   ├── marketing/
+│   └── math/
+├── igsu/                ← задания ИГСУ
+├── investing/           ← скрипты и анализ портфеля
+├── projects/            ← личные проекты и бизнес-идеи
+└── README.md
 ```
 
 ## Правила
